@@ -1010,3 +1010,4 @@ improvedigital.com, 2534, RESELLER
 kidoz.net,15467,RESELLER,a109366414b7335e
 pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com,3890682751,RESELLER
+chartboost.com, 6ae065737df80d381e32baf8, DIRECT, f08c47fec0942fa0
